@@ -158,3 +158,14 @@ article p {
   text-align: center;
 }
 
+.logo{
+  width: 200px;
+  height: auto;
+  vertical-align: middle;
+}
+
+.title {
+  display: inline;
+  color: white;
+  font-size: 32px;
+}
